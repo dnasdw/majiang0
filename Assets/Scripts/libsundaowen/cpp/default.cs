@@ -16,7 +16,12 @@ namespace sdw
                 }
                 else
                 {
-                    return reinterpret_cast<T>(Activator.CreateInstance(typeof(T)));
+                    Type type = typeof(T);
+                    if (type.IsArray)
+                    {
+                        return default(T);
+                    }
+                    return reinterpret_cast<T>(Activator.CreateInstance(type));
                 }
             }
         }

@@ -1,0 +1,1175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c2d885248a7e99544a378e8e8223e628
+  m_SerializeEntries:
+  - m_GUID: 603957a6b5b40334082d480ee5c8754d
+    m_Address: Assets/Textures/Game/im_defaulthead_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c05d72e6d6b57f468d6170a1df0e945
+    m_Address: Assets/Textures/Game/im_defaulthead_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f08b39978b0256c4c92798533ed10c71
+    m_Address: Assets/Textures/Game/Mahjong/hand_left.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c52635b672a32740b4ed5a68a412027
+    m_Address: Assets/Textures/Game/Mahjong/hand_top.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f1596b60d016804395db585f135692b
+    m_Address: Assets/Textures/Game/Mahjong/hand_right.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4123d03a264619744b5f0f7783e42829
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_35.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 130469b4192a5314c932e196633bcd1d
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_47.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0e870f7025104e4b96c72adbbcd6d85
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_28.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89c6384619fb880449a0f1d2a3642305
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9aa4b92ebe7130f4597f01d95c08aff2
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_27.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee6497edb945271498533564e62103d1
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4dfba130b21c6334bae44e003a0494c5
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_41.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96e38c2441c73be4faf460b889c6bc88
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9cfcd8f522ac4d84d969697d28d43a19
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_38.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aa59dee0c3c6cb40b52bc0f115b2192
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c5998c8cda0e3b4aa13c73ba62ddc46
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_34.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4789ae947b8888b4fa226da1cf4411e8
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4a19476ea7d5d349ac224154109500e
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_31.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b12a23bb096eda4a81e0707a3b2df66
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ed34a675c76373489d83d6a8fd581c8
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f08a374f4ecf7e7439d96865e760aab5
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_39.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc1b06396ae2bf345820c312bed5e08e
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82fe5715c3d76254cb15253b048fa3a3
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1650e735e8c2a6e46b13ea916a97bf97
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_46.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8495a157eb789954ebc8d72192097fa8
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29818990bb2a32b45bfbcce147105488
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_36.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3b9ece6395c5524caf3987114ca8958
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38093a7d579c2124ea136b2f4b5cf2cc
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 297c73e4e29e5254eb1c56d49c71166d
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b59da9b22cd467e4bb0fc7a5a549a99a
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_29.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60343482affa5e5409e65168bbd3f5e4
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3e3e53c31ffe1242842dec85b0bc425
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 388dab1f0c93e614eaeb5cb43b4653a3
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f9b3c247bcdb8249ac9b7baea18cd78
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_27.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2434367f0f1416429d6576441b44d91
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_35.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e1616a8a7bdc08439dd1f01d19ffd2a
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_36.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa9d5817562af924bbb1fa53d4a116ae
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_43.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb74de171a5316e4d93f6c68572c3377
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f4e959a0ddcaa944a7e54f35f6aa0cc
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ebdb9000bf5835448039d1f9eeb70c6
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3150a7c1721d7004f8e665227171bc75
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63116b91292fffa449b130206ada1785
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_28.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 30d6a83807a79ee4197e57a6ccef2ba2
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a38b35805cb74ec449c9ba24ca1f7a25
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3a1b49adf539b74a9bb1ba4ceab3605
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_34.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 508ca25ad3e26b443b4b9275b9721d67
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_38.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7208a23630b4c9b4daab8141a23f946a
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a5021ecee659094eb9980fd700c0475
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4f5eee09e20ffe4eb6c6fd95c864515
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ef75810a490da74b821324158b944fd
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_43.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a42a23922d85c74ba993a584ffd29f2
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb0f70e117ea0504e98eb6eb554edbf8
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ad5b790514dd8a46ad650fc3c3097ea
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_42.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b25d028a4c3d58842bec3988261adab1
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_33.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e5f549d0995b41244bcebc23fe3dbc6f
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_33.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0fbdb7a29a67a7540b7427ca50274fb4
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a39f2da3d1408754abe88382405038e6
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_39.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4be52d162a1e49c40aced7f376995c22
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5605d7cbb35bf944a854358b54c6aeb
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_44.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25101ef2d1c9e4841ae08383d0cdc547
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_47.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1d0f5ddef1ba2f4ab0ea607896b9e1d
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_31.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 360db5793ce608946a5dca9d956812ba
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c40bb010ddeb7a3418bbd47d2a3bfdff
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_46.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d51ed28f0105064bb778553f026bafb
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da0c2b1c45896f049b8eabb123ceb019
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df60d35c193beaf40803158aa9025e46
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_42.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c4b9bdb7afbc424fa2ed9acbd25a18f
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b0e824f833577b4b81441edef0eabfe
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42496bb2c5a1c934280d6905e50cb43e
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_44.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 277ec5fea5b43a94e9692d08af2bd141
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_41.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d30f5e00da80a234da24474be72d7e3e
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ece630357b6c58b44906e0f92a37779a
+    m_Address: Assets/Textures/Game/Mahjong/2/handmah_29.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8dbfd7c1939df3f4295183a11b876a78
+    m_Address: Assets/Textures/Game/Mahjong/2/mingmah_17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 230b50a348cdfbf4683eca1ec3db954b
+    m_Address: Assets/Textures/Game/timer_0.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a972bb3d16cb793428d960dfe2baf8c6
+    m_Address: Assets/Textures/Game/timer_1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d074f08f110bcda40b05626f3f5ffc49
+    m_Address: Assets/Textures/Game/timer_2.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c509f37cff3983045bcc7610879e2e57
+    m_Address: Assets/Textures/Game/timer_3.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ab3af1d86424d4458516fa69900cc4e
+    m_Address: Assets/Textures/Game/timer_4.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56f9fdbdb96e3f34b9de62c3d570fd13
+    m_Address: Assets/Textures/Game/timer_5.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc530fc94f32ffa40bc76414f0459605
+    m_Address: Assets/Textures/Game/timer_6.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8fb0a48e8481cb4098a9ab4988a1dd3
+    m_Address: Assets/Textures/Game/timer_7.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac4785b7e5062c240b025781d748933a
+    m_Address: Assets/Textures/Game/timer_8.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7f2121965a49834392e503fc5530aa8
+    m_Address: Assets/Textures/Game/timer_9.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3aa5a5eb48658f44aab910e212d5a95d
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60dd96f40da305441be17311bd53b5dd
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f29c66bfc6c73784ba1600addb8bc722
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a49638b888dac2942b7c50c8ecebb2ff
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a71389cdbb8fa4b46874d77c2c1d6d1a
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a38b40b942a04414f89a71f4853f1338
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3239fec09a8a42c4185ddeae5e30971d
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b92f1cdadb365ec44ba081337b768885
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 930b273d300a87245832cd5ed114e192
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a48bd9c1061b6f847bd95cb1f4d3d33e
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f92c491e9a0485d45ab8419636b0ddb4
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11499a97ffa2bad46b852c8ac4ee93bc
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3819cfa39c58ad46bee250e3ee14b7b
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6141894af194209429c767e628b988b2
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dff2e9f9d3bfed447a6a8c09cfab4a10
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4118ad357eb7ee94585268e2187b86b6
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_27.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d766ad34e1ad28443a0c3efd9f39cfa9
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_28.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da8e5134368cb3843a6579fd62bde63d
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_29.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b0908f3211085e4599355736d57a788
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_31.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecb58db3bfa08a74f81730b8ceb45900
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99578f5b42eed3b44b8768760c5cd70f
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_33.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ab3b157010caa24d8594d8b1245b964
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_34.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c1d885fb7e5d274b874e3775d506ed8
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_35.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 84bd00517bb687e4c96bc68707baeec5
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_36.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6353d656cdb71e4b8dc3b811e409445
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c3372206cefb64144996047bf88b1c05
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_38.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67d63144f79327d4c9d74c7f10fe3bc5
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_39.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e5b216b74c019141a0c85e45457eb93
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_41.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87efdcfd54242cd4084888128b4aced7
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_42.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a7fc95a58d20cc4983ac0e027b60f92
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_43.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb3391b80424db942bf6d1f4879c5b0d
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_44.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dbae31bd8b003d41a02ece9e4e5910e
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 982aeb7de7e2d7241a1b0c63dee6167c
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_46.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8136d2c0eded604fa052fc497cbc980
+    m_Address: Assets/Textures/Game/Mahjong/1/mingmah_47.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5d1f90d3f045e54585a462b83329e56
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_11.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1e2e80353637b94cb4297f861d19415
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_12.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dd4b97107477eb40bd251a5a6c12356
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_13.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b208f3bac4cf42f43aa50c8bc6ff71b2
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_14.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbfe59a1545f60b4c86d8c5e6054c884
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_15.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc8abf24109b0554d976bb5a68e15a1c
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_16.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 479bed81606cbbf4cb86aeb9db3718c2
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_17.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96628075b581b034ebfa467cbcd40817
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_18.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e498419106c549488aca51ba681fa38
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_19.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16b3e7177249ff44284efdaba50c8982
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_21.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fba2759dce84687419b77bd3392e7b14
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_22.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b93ac09dbbe3644a9e190fe79f28ca3
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_23.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 855439fc9aff42f43bf1d39ea6232506
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_24.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5754a8460e505724abcac5919a876164
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_25.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee251b577ee42964785c6b1ad78def46
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_26.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0abe0b46bcddf754d859299cff56bb7d
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_27.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac2c1de699985a94f9a26a472e655734
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_28.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1770903bc322ce448bd836212c6d2ab1
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_29.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d969f53c5b52cd4d8557e7e81ec024b
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_31.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 94ff57aef9da5b6469b99eef7594a3bf
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_32.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b826c331e913644fac90e77dc613b60
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_33.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf2ca2736ec40454d952b497cb1ec189
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_34.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 606d28772ea72ee448a71636d45732ae
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_35.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa91c612967091a478374a1dc1a30dee
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_36.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52a9018f866350e45b64b20073366dbe
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_37.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62f1d46dd01fda94b86c87ca969dcf0a
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_38.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6667d1a0f164cb4d956c2201df3de1f
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_39.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6cc08425c96ebd345bbc1fa93cb21558
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_41.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40c0f68db02c8ac40a2c21bc5258982b
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_42.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 630a9d2eaaf8e924aa38f7578ebe3243
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_43.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26c5d14f7be276443b8a5fff93443d33
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_44.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b81cec97f71b8cf46b8801a020d028e1
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_45.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 96e440aa50d03d849a4d391fe292f56a
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_46.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49252fef431f9ff478286139c0a765bf
+    m_Address: Assets/Textures/Game/Mahjong/3/mingmah_47.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5033ec0403279854ab67323bec019710
+    m_Address: Assets/Textures/GameOver/result_win.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88027b8f645f667438f3f5cbae795dc0
+    m_Address: Assets/Textures/GameOver/result_draw.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da3fe048358bfe84ba6e5dbdb65de02e
+    m_Address: Assets/Textures/GameOver/result_lose.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50b8b800773366746bcc34def6b9b61c
+    m_Address: Assets/Audio/Mahjong/male/mjt3_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c53e54b705c5a844b80f692cfd8388ce
+    m_Address: Assets/Audio/Mahjong/male/mjt1_8.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5aee22334ab482044b03223372604d57
+    m_Address: Assets/Audio/Mahjong/male/mjt2_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4881ab4b0d06344686b78a4a18810cf
+    m_Address: Assets/Audio/Mahjong/male/mjt2_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef0129b2fb0bb0d41847a83c3dbcbad4
+    m_Address: Assets/Audio/Mahjong/male/zimo.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3506ba758b7ff240ad2671da1d267bd
+    m_Address: Assets/Audio/Mahjong/male/mjt1_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd0ea5708c361644394b77635d95d82e
+    m_Address: Assets/Audio/Mahjong/male/mjt4_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2696402a99905104faf193e03bc51756
+    m_Address: Assets/Audio/Mahjong/male/mjt2_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e52167546f4b394280906355408a652
+    m_Address: Assets/Audio/Mahjong/male/mjt1_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85965c7ddfd7eae479d54a9f3063d8cb
+    m_Address: Assets/Audio/Mahjong/male/mjt3_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ae1a83ff49fb1f4488193e2ea85aba9
+    m_Address: Assets/Audio/Mahjong/male/mjt2_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 325cecea781c56442ae922d9effb5dc5
+    m_Address: Assets/Audio/Mahjong/male/mjt1_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 44f653743c5d09e4286de23cce8a3588
+    m_Address: Assets/Audio/Mahjong/male/mjt4_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a9332bc2ddf9874394e38ac70edd80b
+    m_Address: Assets/Audio/Mahjong/male/mjt1_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 009a0e29b84e9f844acb1a7bf26c0cd8
+    m_Address: Assets/Audio/Mahjong/male/mjt3_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2998a45169b32f4c968d7aaca530342
+    m_Address: Assets/Audio/Mahjong/male/mjt2_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7f33c9183de32f48a7d6f7850080499
+    m_Address: Assets/Audio/Mahjong/male/hu.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fafe06999deee7645bd8a7371cf1d650
+    m_Address: Assets/Audio/Mahjong/male/mjt2_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80d7288ad46fac943b6e835fcd838feb
+    m_Address: Assets/Audio/Mahjong/male/mjt3_8.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d34fa208e20df294c85b9b7578ed7f59
+    m_Address: Assets/Audio/Mahjong/male/mjt4_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d81f2c8d9f361ff48a7bd2955bd3d08a
+    m_Address: Assets/Audio/Mahjong/male/mjt4_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b9be21ee03975f479a22ea67d08bcf5
+    m_Address: Assets/Audio/Mahjong/male/mjt4_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7824b51d241c0c346be06b72d59a6ec4
+    m_Address: Assets/Audio/Mahjong/male/mjt4_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6001d8ca973f2344aa00d10bf5dc4ac5
+    m_Address: Assets/Audio/Mahjong/male/mjt2_9.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c067247fd6c437844aa2056447d3b2c5
+    m_Address: Assets/Audio/Mahjong/male/mjt4_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0df62c69303d82b49b91355399720497
+    m_Address: Assets/Audio/Mahjong/male/mjt1_9.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f318d1a0946fa844a7608d9883d797b
+    m_Address: Assets/Audio/Mahjong/male/mjt1_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 878262cc4acf9414fac841e827d86dc3
+    m_Address: Assets/Audio/Mahjong/male/mjt1_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 958b80380ed84654fa0585b5583a1a6f
+    m_Address: Assets/Audio/Mahjong/male/peng.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f53edd2d963385f43a033df69ae016f6
+    m_Address: Assets/Audio/Mahjong/male/mjt2_8.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7d25b2772fc5f47bbc931dffab30c3
+    m_Address: Assets/Audio/Mahjong/male/gang.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba7402262694ba84185f224d4bbd311e
+    m_Address: Assets/Audio/Mahjong/male/mjt1_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d393bcc8753aa7b429255fb5e9639868
+    m_Address: Assets/Audio/Mahjong/male/mjt3_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac0906570c3aceb4fb5850c28a36e7b9
+    m_Address: Assets/Audio/Mahjong/male/mjt3_9.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec323f9fa4682a3498dc957d0d24bb66
+    m_Address: Assets/Audio/Mahjong/male/mjt3_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99fec79f04a9d8e47945cdb82b0365cf
+    m_Address: Assets/Audio/Mahjong/male/mjt3_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34e4a8e64270cf640a22913653144087
+    m_Address: Assets/Audio/Mahjong/male/mjt2_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cceeaead2c2003649beb39c2a450231c
+    m_Address: Assets/Audio/Mahjong/male/mjt3_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d52b8b1560a16254d9dbf8c26cd964f6
+    m_Address: Assets/Audio/Mahjong/female/mjt3_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bcd1f78f4b3c134abe84f58b18d39ce
+    m_Address: Assets/Audio/Mahjong/female/mjt2_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d1d740a52621a084b8c3b8fc65f2a41d
+    m_Address: Assets/Audio/Mahjong/female/mjt3_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8635ada45529fc54394024b508bb11fc
+    m_Address: Assets/Audio/Mahjong/female/mjt1_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6268478cab93574aaecde488a23c6a8
+    m_Address: Assets/Audio/Mahjong/female/mjt2_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a970dbbb5855d940a672181e961c596
+    m_Address: Assets/Audio/Mahjong/female/mjt2_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18a69de15cf794349b5d304e74257537
+    m_Address: Assets/Audio/Mahjong/female/mjt2_9.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adc80fc14496b5d4990ce6a4d75155a4
+    m_Address: Assets/Audio/Mahjong/female/hu.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93ef8cdb8684edd489674a47d13ab0e9
+    m_Address: Assets/Audio/Mahjong/female/mjt4_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3363475fe34d334c822907afa73509c
+    m_Address: Assets/Audio/Mahjong/female/peng.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fdbcefa485502b48ac1294c55a6bd38
+    m_Address: Assets/Audio/Mahjong/female/mjt3_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22dd738a905ab534ba9caa4419fba9b6
+    m_Address: Assets/Audio/Mahjong/female/mjt2_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a37236da8c88668469a852ad053051e9
+    m_Address: Assets/Audio/Mahjong/female/gang.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5bd8545edaf2954a967a3865f76057e
+    m_Address: Assets/Audio/Mahjong/female/mjt1_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 91d083f15db526a4a9f262a235fc6b87
+    m_Address: Assets/Audio/Mahjong/female/mjt3_8.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3b66d3dc8f4cbf4aa7e0b2ea5311105
+    m_Address: Assets/Audio/Mahjong/female/mjt1_9.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcfe8cd1208c4e649bae7d8cc43c3ef4
+    m_Address: Assets/Audio/Mahjong/female/zimo.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff9eb9c80eed93248a6b6ee7210b6200
+    m_Address: Assets/Audio/Mahjong/female/mjt2_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c82383e37588eca44a868333e6ae9e23
+    m_Address: Assets/Audio/Mahjong/female/mjt1_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d45603671a2fa644a73eea0bdf5b226
+    m_Address: Assets/Audio/Mahjong/female/mjt1_8.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a979a52cb78f9c45911355480f40a1d
+    m_Address: Assets/Audio/Mahjong/female/mjt3_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8bfff0cb8c1c2a4a8a3ad06e28530d0
+    m_Address: Assets/Audio/Mahjong/female/mjt2_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e64fed42b34ee841ae869bc5ff25d3d
+    m_Address: Assets/Audio/Mahjong/female/mjt1_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4ca1add6d42fdf4dbc40820ad5439ae
+    m_Address: Assets/Audio/Mahjong/female/mjt2_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0cecea80ea4d5849b9988189e102f9b
+    m_Address: Assets/Audio/Mahjong/female/mjt4_2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e8d4fb19f262b24dbfea769abfd7745
+    m_Address: Assets/Audio/Mahjong/female/mjt4_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5df291ebb1b8f3e46a1264c3dd25909e
+    m_Address: Assets/Audio/Mahjong/female/mjt3_9.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6a11297a5d33b247bf06af22649fee1
+    m_Address: Assets/Audio/Mahjong/female/mjt4_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bb42707d51ea4348b59dacd278d7816
+    m_Address: Assets/Audio/Mahjong/female/mjt1_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78099af51efac854a9ae210574e017ad
+    m_Address: Assets/Audio/Mahjong/female/mjt4_7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2abce84fa7737e5439d9e0e9b4c6d5cd
+    m_Address: Assets/Audio/Mahjong/female/mjt1_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9322199fbb281f4886010dfb263e35f
+    m_Address: Assets/Audio/Mahjong/female/mjt3_3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1037f7ec5d2cd9e43a91b9cb3517c109
+    m_Address: Assets/Audio/Mahjong/female/mjt4_5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc5d6e9dc0b8e8d459d26977ac1ebc64
+    m_Address: Assets/Audio/Mahjong/female/mjt1_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3d03166b2b58324db6714e6388cf215
+    m_Address: Assets/Audio/Mahjong/female/mjt4_6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4041f136dfe45c34d871c0e89342b980
+    m_Address: Assets/Audio/Mahjong/female/mjt2_8.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8f82ca3b5bfa81459495d9c7601f022
+    m_Address: Assets/Audio/Mahjong/female/mjt3_4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf2cfaca1abace949a521257e79c0eeb
+    m_Address: Assets/Audio/Mahjong/female/mjt3_1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 0994fbaaa4027e242b149f56d35de939, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0149c3f49296281498a66b968306039c, type: 2}
+    - {fileID: 11400000, guid: fb22b1d33966ce64ca311e1fd62e3525, type: 2}
